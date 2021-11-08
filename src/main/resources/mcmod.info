@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "TinkersOreDictCache",
+    "name": "TinkersOreDictCache",
+    "description": "caches all tinker oredict melting recipes",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["youyihj"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

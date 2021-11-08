@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "youyihj.tinkersoredictcache.mixins",
+  "minVersion": "0.8",
+  "setSourceFile": true,
+  "priority": 0,
+  "refmap": "mixins.tic_oredict_cache.refmap.json",
+  "mixins": [
+    "MixinTinkerSmeltery"
+  ]
+}
