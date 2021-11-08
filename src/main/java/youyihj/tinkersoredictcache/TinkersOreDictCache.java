@@ -1,6 +1,5 @@
 package youyihj.tinkersoredictcache;
 
-import com.google.common.collect.Iterables;
 import net.minecraft.nbt.CompressedStreamTools;
 import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.nbt.NBTTagList;
